@@ -37,6 +37,6 @@ I utilize GitHub primarily as a tool to organize my scientific workflows and dat
 
 If you are interested in discussing functional foods, biotechnology, or potential research collaborations, please feel free to reach out:
 
-**Email:** lamyaalli024@gmail.com
+*   **Email:** lamyaalli024@gmail.com
 *   **LinkedIn:** [linkedin.com/in/lamya-allito-858120271](https://www.linkedin.com/in/lamya-allito-858120271)
-*   **ResearchGate:** [My ResearchGate Profile].(https://www.tandfonline.com/doi/full/10.1080/17568919.2025.2533003 )
+*   **ORCID:** [0009-0002-5783-7939](https://orcid.org/0009-0002-5783-7939)
